@@ -1,6 +1,4 @@
----
-title: Welcome to my blog
----
+
 # Welcome to My Project 🚀
 
 This is the main landing page for the project.  
